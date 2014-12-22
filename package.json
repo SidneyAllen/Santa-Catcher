@@ -1,0 +1,15 @@
+{
+  "name": "SantaCatcher",
+  "version": "0.0.1",
+  "description": "Program to listen for loud sounds and snap a piture of Jolly St. Nick by the Tree using a Tessel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "santacatcher"
+  },
+  "author": "Sid Maestre",
+  "license": "ISC"
+}
